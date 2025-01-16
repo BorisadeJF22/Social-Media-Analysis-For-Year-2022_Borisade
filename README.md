@@ -2,6 +2,8 @@ Analytical report on the average time spent on social media for the year 2022. T
 
 
 **OBSERVATION**
+
+
 Base on the chart, the following observation where made;
 
 
